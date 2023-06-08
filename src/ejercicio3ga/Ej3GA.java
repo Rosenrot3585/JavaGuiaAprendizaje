@@ -7,8 +7,8 @@ import java.util.Scanner;
  * @author Rosenrot3585
  */
 
-// Program that takes a Sentence and print it in uppercases and then in
-// lowcases.
+/*  Program that takes a Sentence and print it in uppercases and then in
+lowcases.*/
 
 public class Ej3GA {
 
